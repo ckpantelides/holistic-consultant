@@ -1,0 +1,12 @@
+body {
+     background-color:#dcccc0;
+     margin: 0;
+     padding: 0;
+}
+
+.center {
+    height: 100vh;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
