@@ -10,3 +10,11 @@ body {
     margin-right: auto;
     display: block;
 }
+
+@media (max-width: 480px) {
+  .center {
+    width: 100vw;
+    height: auto;
+    padding-top: 25%;
+  }
+}
